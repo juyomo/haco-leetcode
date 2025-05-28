@@ -1,4 +1,4 @@
-# Juyoung's solnshttps://github.com/juyomo/haco-leetcode/blob/main/juyomo/history.md
+# Juyoung's solns
 
 [Spreadsheet of past questions](https://docs.google.com/spreadsheets/d/1xBbdRK63r4j0TBRjWU9qS4NVHbrE3yg8pdTXb4bciz0/)
 
