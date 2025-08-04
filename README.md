@@ -17,7 +17,7 @@
 ### 풀어볼 문제 (Optional)
 
 * https://leetcode.com/problems/rearranging-fruits
-* https://leetcode.com/problems/fruit-into-baskets/description/
+* https://leetcode.com/problems/fruit-into-baskets
 
 ### Misc
 
