@@ -28,6 +28,6 @@
 
 ### 푼 문제
 
-https://www.acmicpc.net/problem/1254 - 팰린드롬 만들기 (실버)
-https://leetcode.com/problems/assign-cookies/ - assign cookies (easy)
-https://leetcode.com/problems/k-closest-points-to-origin/ - k closest points to origin (미디엄)
+* https://www.acmicpc.net/problem/1254 - 팰린드롬 만들기 (실버)
+* https://leetcode.com/problems/assign-cookies/ - assign cookies (easy)
+* https://leetcode.com/problems/k-closest-points-to-origin/ - k closest points to origin (미디엄)
