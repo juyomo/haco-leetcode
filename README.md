@@ -6,6 +6,19 @@
 
 [Past problems (구글닥).](https://docs.google.com/spreadsheets/d/1xBbdRK63r4j0TBRjWU9qS4NVHbrE3yg8pdTXb4bciz0/)
 
+# 8/11
+
+### 푼 문제
+
+* https://leetcode.com/problems/edit-distance/
+
+### 비슷한 느낌의 문제들
+
+* https://leetcode.com/problems/longest-common-subsequence/
+* https://www.acmicpc.net/problem/9251
+* https://www.acmicpc.net/problem/20996
+* https://www.acmicpc.net/problem/1053
+
 # 8/4
 
 ### 푼 문제
