@@ -6,6 +6,17 @@
 
 [Past problems (구글닥).](https://docs.google.com/spreadsheets/d/1xBbdRK63r4j0TBRjWU9qS4NVHbrE3yg8pdTXb4bciz0/)
 
+# 8/18
+
+### 푼 문제
+
+- https://leetcode.com/problems/min-cost-climbing-stairs/
+- https://leetcode.com/problems/coin-change-ii/
+
+### 문제리스트
+
+- https://leetcode.com/problem-list/ngnn6eej/ (태민님)
+
 # 8/11
 
 ### 푼 문제
